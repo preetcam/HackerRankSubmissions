@@ -1,4 +1,3 @@
-package com.practice.javarevisited;
 import java.util.Scanner;
 //We consider a word, , to be beautiful if the following two conditions are satisfied:
 //
